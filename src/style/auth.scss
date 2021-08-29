@@ -11,7 +11,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: $offwhite;
+        background-color: $charcoal;
     
         .auth-form-wrapper {
           @include input-element();
